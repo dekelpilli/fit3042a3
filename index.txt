@@ -1,0 +1,16 @@
+walls,https://en.wikipedia.org/wiki/Swimming_(sport)
+Regensburg),https://en.wikipedia.org/wiki/1972_Summer_Olympics
+colonisation,https://en.wikipedia.org/wiki/Spain
+genre,https://en.wikipedia.org/wiki/Spain
+Wikiversity,https://en.wikipedia.org/wiki/Spain
+Good,https://en.wikipedia.org/wiki/Spain, https://en.wikipedia.org/wiki/Swimming_(sport)
+drop,https://en.wikipedia.org/wiki/Spain
+elites,https://en.wikipedia.org/wiki/Spain
+key,https://en.wikipedia.org/wiki/Swimming_(sport)
+muerte,https://en.wikipedia.org/wiki/Spain
+became,https://en.wikipedia.org/wiki/Spain, https://en.wikipedia.org/wiki/Swimming_(sport), https://en.wikipedia.org/wiki/1968_Summer_Olympics, https://en.wikipedia.org/wiki/1972_Summer_Olympics, https://en.wikipedia.org/wiki/Massimiliano_Rosolino, https://en.wikipedia.org/wiki/Oussama_Mellouli
+count,https://en.wikipedia.org/wiki/1968_Summer_Olympics, https://en.wikipedia.org/wiki/1972_Summer_Olympics, https://en.wikipedia.org/wiki/Massimiliano_Rosolino
+Representing,https://en.wikipedia.org/wiki/Jean_Boiteux,https://en.wikipedia.org/wiki/Borut_Petri%C4%8D,https://en.wikipedia.org/wiki/Borut_Petrič,https://en.wikipedia.org/wiki/Darjan_Petri%C4%8D,https://en.wikipedia.org/wiki/Darjan_Petrič, https://en.wikipedia.org/wiki/Massimiliano_Rosolino,https://en.wikipedia.org/wiki/Velimir_Stjepanovi%C4%87,https://en.wikipedia.org/wiki/Velimir_Stjepanović
+parte,https://en.wikipedia.org/wiki/Spain
+qualifying,https://en.wikipedia.org/wiki/Swimming_(sport), https://en.wikipedia.org/wiki/1968_Summer_Olympics, https://en.wikipedia.org/wiki/Oussama_Mellouli
+heavy,https://en.wikipedia.org/wiki/Spain
